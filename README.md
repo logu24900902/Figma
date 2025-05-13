@@ -105,8 +105,6 @@ page 3
 </div>]
 
 ```
-
-
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/675a3431-e11d-47c7-a902-d6b4a079977b)
 
