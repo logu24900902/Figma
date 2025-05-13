@@ -1,6 +1,5 @@
-# Ex09 Event Registration Web Application
-## Date:
-
+# Ex06 Event Registration Web Application
+## Date: 13/05/2025
 ## AIM:
 To design, develop and deploy a web application for event registration.
 
@@ -101,7 +100,7 @@ page 3
   <div class="contact-us">CONTACT US</div>
   <div class="saveetha-engineering-college">SAVEETHA ENGINEERING COLLEGE</div>
   <div class="phone">PHONE</div>
-  <div class="_7305562835">7305562835</div>
+  <div class="_9025432512">9025432512</div>
   <div class="thank-you">THANK YOU</div>
 </div>]
 
@@ -109,7 +108,8 @@ page 3
 
 
 ## OUTPUT:
-![screenshot  84 jpj](https://github.com/user-attachments/assets/b3697288-e8fe-4b99-8895-e17d7f347301)
+![image](https://github.com/user-attachments/assets/675a3431-e11d-47c7-a902-d6b4a079977b)
+
 
 
 ## RESULT:
